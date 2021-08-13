@@ -231,6 +231,11 @@
       "name": "firebase-analytics"
     },
     {
+      "group": "com\\.firebase",
+      "name": "firebase-jobdispatcher",
+      "version": "0\\.8\\.5"
+    },
+    {
       "group": "com\\.google\\.firebase",
       "name": "firebase-ml-vision"
     },
